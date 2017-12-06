@@ -1,0 +1,4 @@
+activate.console.on.resuming=true
+create.new.grepconsole.on.demand=true
+dont.ask.for.create.new.grepconsole.on.demand=true
+eclipse.preferences.version=1
